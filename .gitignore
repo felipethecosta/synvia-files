@@ -1,2 +1,13 @@
 # Stream files
 secrets.toml
+.streamlit/
+
+# Dependency directories
+node_modules/
+vendor/
+.venv/ 
+
+# Build directories
+dist/
+build/
+.out/
