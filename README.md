@@ -16,3 +16,6 @@
 3. `pip install --upgrade pip`
 4. `pip install -r requirements.txt`
 5. `streamlit run protocolos.py`
+
+
+teste
